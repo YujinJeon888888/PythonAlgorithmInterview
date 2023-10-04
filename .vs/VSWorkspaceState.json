@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     ""
   ],
   "SelectedNode": "\\_3_pass.py",
+=======
+    "",
+    "\\_3",
+    "\\_4"
+  ],
+  "SelectedNode": "\\test.py",
+>>>>>>> main
   "PreviewInSolutionExplorer": false
 }

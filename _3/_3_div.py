@@ -1,0 +1,6 @@
+﻿print(5/3)
+print("typeof 5/3: "+str(type(5/3)))
+print(5//3)
+print("typeof 5//3: "+str(type(5//3)))
+print("5%3: "+str(5%3))
+print("divmod 사용"+ str(divmod(5,3)))
