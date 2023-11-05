@@ -1,15 +1,10 @@
 {
   "ExpandedNodes": [
-<<<<<<< HEAD
-    ""
-  ],
-  "SelectedNode": "\\_3_pass.py",
-=======
     "",
-    "\\_3",
-    "\\_4"
+    "\\_6",
+    "\\_8_연결리스트",
+    "\\데크"
   ],
-  "SelectedNode": "\\test.py",
->>>>>>> main
+  "SelectedNode": "\\데크\\좋은단어.py",
   "PreviewInSolutionExplorer": false
 }
